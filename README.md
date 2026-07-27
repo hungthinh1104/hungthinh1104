@@ -9,7 +9,7 @@
 
 [Portfolio](https://github.com/hungthinh1104/Porforlio_QA_QC) ·
 [GitHub](https://github.com/hungthinh1104) ·
-[Email](mailto:re.peke.pbe@gmail.com)
+[Email](mailto:diphungthinh@gmail.com)
 
 </div>
 
