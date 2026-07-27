@@ -7,6 +7,9 @@
 `I do not test whether software looks finished.`
 `I test whether its confidence is deserved.`
 
+<img width="474" height="204" alt="Adobe Express - 02178518057353600000000000000000000ffffc0a8a26cb702dc(1)" src="https://github.com/user-attachments/assets/446bfe15-4981-4582-8a7d-58970a264fbb" />
+
+
 [Portfolio](https://github.com/hungthinh1104/Porforlio_QA_QC) ·
 [GitHub](https://github.com/hungthinh1104) ·
 [Email](mailto:diphungthinh@gmail.com)
